@@ -1,0 +1,11 @@
+
+#Your primary Twilio Account SID
+TWILIO_ACCOUNT_SID=
+
+#API Key/Secret Pair - generate a pair in the console
+TWILIO_IPM_API_KEY=
+TWILIO_IPM_API_SECRET=
+
+#Your Chat service instance SID
+TWILIO_IPM_SERVICE_SID=
+
