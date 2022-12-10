@@ -24,7 +24,7 @@
 	"homepage": "https://github.com/abhijitmehta/template-node",
 	"dependencies": {
 		"twilio": "^2.11.1",
-		"express": "^4.15.2",
+		"express": "^4.17.3",
 		"facebook-login-vuejs": "*"
 	},
 	"devDependencies": {
